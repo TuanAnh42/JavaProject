@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DELL/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/JSTLExam/web/add_contact.jsp</file>
+            <file>file:/C:/Users/DELL/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/JSTLExam/src/java/model/GroupModel.java</file>
+            <file>file:/C:/Users/DELL/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/JSTLExam/src/java/controller/Delete.java</file>
+            <file>file:/C:/Users/DELL/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/JSTLExam/web/list_of_contact.jsp</file>
+            <file>file:/C:/Users/DELL/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/JSTLExam/src/java/controller/ListOfContactServlet.java</file>
+            <file>file:/C:/Users/DELL/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/JSTLExam/src/java/entity/Contact.java</file>
+            <file>file:/C:/Users/DELL/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/JSTLExam/web/Edit.jsp</file>
+            <file>file:/C:/Users/DELL/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/JSTLExam/web/error.jsp</file>
+            <file>file:/C:/Users/DELL/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/JSTLExam/src/java/model/ContactModel.java</file>
+            <file>file:/C:/Users/DELL/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/JSTLExam/src/java/controller/Edit.java</file>
+            <file>file:/C:/Users/DELL/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/JSTLExam/src/java/controller/LoadDataForGroups.java</file>
+            <file>file:/C:/Users/DELL/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/JSTLExam/src/java/entity/Group.java</file>
+            <file>file:/C:/Users/DELL/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/JSTLExam/web/add_group.jsp</file>
+            <file>file:/C:/Users/DELL/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/JSTLExam/web/list_of_group.jsp</file>
+            <file>file:/C:/Users/DELL/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/JSTLExam/src/java/controller/AddContactServlet.java</file>
+            <file>file:/C:/Users/DELL/OneDrive%20-%20Hanoi%20University%20of%20Science%20and%20Technology/Documents/NetBeansProjects/JSTLExam/src/java/controller/AddGroupServlet.java</file>
+        </group>
+    </open-files>
+</project-private>

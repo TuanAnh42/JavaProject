@@ -1,0 +1,2 @@
+EnumDirection
+EnumDirection$Direction
