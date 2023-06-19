@@ -1,26 +1,24 @@
 
-    <%@page contentType="text/html" pageEncoding="UTF-8"%>
-    <%@taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
-    <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%@taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
-    <!DOCTYPE html>
-    <html lang="vi">
-        <head>
-            <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-            <title>JSP Page</title>
+<!DOCTYPE html>
+<html lang="vi">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>JSP Page</title>
 
-            <script type="text/javascript">
-                function changeLanguage(lang) {
-                    document.documentElement.lang = lang;
-                }
-            </script>
-        </head>
-        <body>
-            <fmt:setBundle basename="messages_vi_VN" var="bundle" />
-            <fmt:setBundle basename="messages_en" var="bundleEN" />
+    </head>
+    <body>
+        
+        <fmt:setBundle basename="resources.messages" var="bundleEN"/>
+            <a href="#"  name="vi"><fmt:message key="viet" bundle="${bundleEN}" /></a><br>
+            <a href="#" name="en"><fmt:message key="en" bundle="${bundleEN}" /></a>
+            
 
-            <a href="#" onclick="changeLanguage('vi');"><fmt:message key="viet" bundle="${bundleEN}" /></a><br>
-            <a href="#" onclick="changeLanguage('en');"><fmt:message key="en" bundle="${bundleEN}" /></a>
+            
+            
 
             <h1><fmt:message key="title" bundle="${bundleEN}" /></h1>
             <label><fmt:message key="name" bundle="${bundleEN}" /></label>
@@ -34,6 +32,5 @@
             <input type="text" name="address"><br><br>
             <button type="submit" name="action" value="process"><fmt:message key="btnProcess" bundle="${bundleEN}" /></button>
             <button type="reset"><fmt:message key="btnRest" bundle="${bundleEN}" /></button>
-
     </body>
 </html>

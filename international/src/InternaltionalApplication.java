@@ -17,7 +17,7 @@ import javax.swing.text.DateFormatter;
 public class InternaltionalApplication {
 
     static public void printValue(Locale currentLocale) {
-        Integer value = new Integer(123456);
+        Integer value = Integer.valueOf(123456);
         Double amt = new Double(345987.246);
         NumberFormat numberFormat;
         String valueDisplay;
