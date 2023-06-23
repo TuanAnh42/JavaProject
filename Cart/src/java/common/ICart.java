@@ -10,8 +10,8 @@ import java.util.ArrayList;
  *
  * @author Tuấn Anh
  */
-public interface IContact<T> {
+public interface ICart<T> {
     ArrayList<T> getAll(); 
-    boolean add(T obj);
+//    boolean add(T obj);
     
 }
